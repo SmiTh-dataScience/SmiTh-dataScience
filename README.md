@@ -3,12 +3,12 @@
 
 <img align="right" alt="DataAnalysis" width="400" src="https://www.kdnuggets.com/wp-content/uploads/c_free_data_analyst_bootcamp_beginners_1.png" />
 
-- 🔭 I’m currently working on **turning business problems into data-driven insights using dashboards and machine learning**
-- 🌱 I’m currently learning **Advanced SQL, machine learning algorithms, and mastering Power BI storytelling techniques**
-- 👯 I’m looking to collaborate on **open-source data projects, dashboard building, and impactful ML use-cases**
-- 🤝 I’m open to mentorship and collaborations in **data analytics, Python automation, and dashboard design**
-- 💬 Ask me about **Power BI, SQL queries, EDA, or how to present insights like a pro!**
-- 📫 How to reach me **smitsolanki33@gmail.com**
+- 🔭 I’m currently working on **Transforming raw data into stories that even non-technical folks can understand 📖**
+- 🌱 I’m currently learning **Deepening my understanding of advanced SQL and cloud-based data architecture. Exploring new frameworks and learning more about data ethics. 📚**
+- 👯 I’m looking to collaborate on **Open to collaborative projects in data visualization, machine learning, AI, or any impactful data-driven innovations.**
+- 🤝 I’m looking for help with **Collaboration on NLP projects welcome!**
+- 💬 Ask me about **Data wrangling, building interactive dashboards, or how AI revolutionizes industries. I'm your go-to person if you need help with Python! 🚀**
+- 📫 How to reach me **smithsolanki33@gmail.com**
 
 ---
 
