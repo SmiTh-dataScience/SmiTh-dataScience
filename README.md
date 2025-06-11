@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **open-source data projects, dashboard building, and impactful ML use-cases**
 - 🤝 I’m open to mentorship and collaborations in **data analytics, Python automation, and dashboard design**
 - 💬 Ask me about **Power BI, SQL queries, EDA, or how to present insights like a pro!**
-- 📫 How to reach me **smitsolanki.ds@gmail.com**
+- 📫 How to reach me **smitsolanki33@gmail.com**
 
 ---
 
