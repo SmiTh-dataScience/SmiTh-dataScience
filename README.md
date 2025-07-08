@@ -10,7 +10,6 @@
 - 💬 Ask me about **Data wrangling, building interactive dashboards, or how AI revolutionizes industries. I'm your go-to person if you need help with Python! 🚀**
 - 📫 How to reach me **smithsolanki33@gmail.com**
 
-- [![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/smithsolanki)
 ---
 
 <h3 align="left">Connect with me:</h3>
